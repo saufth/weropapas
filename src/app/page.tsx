@@ -15,7 +15,7 @@ export default function Home () {
           height={720}
         />
         <span className='font-black text-xl text-primary text-center'>
-          En construcción...
+          En construcción
         </span>
       </div>
     </main>
